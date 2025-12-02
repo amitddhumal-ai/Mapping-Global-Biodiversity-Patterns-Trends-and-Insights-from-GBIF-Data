@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+folium
+streamlit-folium
+numpy
+scikit-learn
+openmeteo-requests
+requests_cache
+retry-requests
+matplotlib
+seaborn
