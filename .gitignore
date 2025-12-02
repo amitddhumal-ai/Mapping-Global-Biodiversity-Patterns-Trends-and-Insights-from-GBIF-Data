@@ -1,0 +1,11 @@
+# Ignore generated HTML plots
+images/*.html
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv
+
+# Data files
+*.csv
+*.pdf
