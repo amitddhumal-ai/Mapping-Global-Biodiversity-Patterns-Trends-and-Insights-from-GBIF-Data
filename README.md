@@ -5,6 +5,8 @@
 ## 📖 Overview
 This project is a comprehensive data science initiative that analyzes global biodiversity patterns using data from the **Global Biodiversity Information Facility (GBIF)**. It goes beyond static analysis by integrating **Climate Data (Open-Meteo)** and presenting insights through an interactive, youth-friendly **Streamlit Dashboard**.
 
+## ✨ Live Demo: https://globalbiodiversity.streamlit.app/
+
 ## ✨ Key Features
 
 ### 1. 📊 Advanced Data Analysis
